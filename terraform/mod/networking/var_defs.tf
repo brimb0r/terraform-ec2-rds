@@ -1,0 +1,11 @@
+variable "environment" {}
+variable "priv_one_az" {}
+variable "priv_one_cidr_block" {}
+variable "pub_one_cidr_block" {}
+variable "public_one_az" {}
+variable "priv_two_cidr_block" {}
+variable "priv_two_az" {}
+variable "pub_two_cidr_block" {}
+variable "public_two_az" {}
+variable "region" {}
+variable "vpc_cidr_block" {}
